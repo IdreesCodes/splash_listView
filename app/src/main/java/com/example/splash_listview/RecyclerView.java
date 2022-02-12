@@ -6,11 +6,20 @@ import android.os.Bundle;
 import android.view.View;
 
 public class RecyclerView extends AppCompatActivity {
+    RecyclerView recyclerView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recycler_view);
-        View programmingList = findViewById(R.id.programmingList);
+        View recyclerView1 = findViewById(R.id.recyclerView1);
+
+
+
+
+
+
+
     }
 }
